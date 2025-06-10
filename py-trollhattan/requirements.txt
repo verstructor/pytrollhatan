@@ -1,0 +1,6 @@
+ruff
+jupyter
+jupyterlab
+ipython
+jupytext
+pytest
